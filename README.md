@@ -5,8 +5,8 @@ This repository contains publicly available annotated sample points for seasons 
 # Metadata
 Each shapefiles contains annotated points for seasons 2022, 2023 and 2024 and has 10 attributes:
 
-**lat** (float) latitude of the point
-**lon** (float) longitude of the point
+**lat** (float) latitude of the point \n
+**lon** (float) longitude of the point \n
 **Occupation** (int) Whether a points falls within government controlled territories (0) or temporarily occupied territoiries (1)
 **Occ_str** (str) Whether a points falls within government controlled territories (gov_cont) or temporarily occupied territoiries (temp_occ)
 **Occ_date** (str) Date of the occupation line used, source: https://www.understandingwar.org/
