@@ -17,4 +17,4 @@ Each shapefiles contains annotated points for seasons 2022, 2023 and 2024 and ha
 **Year** (int) Year of mapping and annotation\
 
 ### Citing this data
-Citation will be updated soon
+Wagner, Josef and Skakun, Sergii and Nair, Shabarinath S. and Baber, Sheila and Sadeh, Yuval and Oliinyk, Oleksandra and Poliakov, Danilo and Vaskivskyi, Bohdan and Misiura, Oleksii and Kussul, Nataliaa and Prykhodko, Dmytro and Sikachyna, Oleksandr and Rajaoberison, Andry and Li, Fangjie and Chevassu, Emma and Rehbinder, Jean and Nerry, Francoise and Mitkish, Mary and Becker-Reshef, Inbal, Estimating Winter Crop Planted Areas with Remote Sensing Imagery in War-Affected Ukraine. Available at SSRN: https://ssrn.com/abstract=5196729 or http://dx.doi.org/10.2139/ssrn.5196729
