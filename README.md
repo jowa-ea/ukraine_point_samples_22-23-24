@@ -1,9 +1,9 @@
-## ukraine_point_samples_22-23-24
+## Ukraine_annotated_sample_units_22-23-24-25
 
-This repository contains publicly available annotated sample points for seasons 2022, 2023 and 2024.
+This repository contains publicly available annotated sample points for seasons 2022 to 2025.
 
 ### Metadata
-Each shapefiles contains annotated points for seasons 2022, 2023 and 2024 and has 10 attributes:\
+Each shapefiles contains annotated points for seasons 2022 to 2025 and has 10 attributes:\
 
 **lat** (float) latitude of the point \
 **lon** (float) longitude of the point \
